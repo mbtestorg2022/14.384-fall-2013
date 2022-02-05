@@ -24,10 +24,39 @@ The main objective of this course is to develop the skills needed to do empirica
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 5 problems sets | 60 |
-| Take-home final exam | 40 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5 problems sets
+{{< tdclose >}}
+{{< tdopen >}}
+60
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Take-home final exam
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 If you are an Economics PhD student, your econometrics paper requirement could be fulfilled by turning in a research paper on a topic related to material covered in the class. The paper should be empirical.
 
