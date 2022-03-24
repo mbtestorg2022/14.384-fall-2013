@@ -214,7 +214,7 @@ Chari, V., P. Kehoe, et al. "[A Critique of Structural VARs Using Business Cycle
 
 \*Fernandez Villaverde, J., J. Rubio Ramirez, et al. "[The ABC and (D's) to Understand VARs](http://ideas.repec.org/p/pen/papers/05-018.html)." NYU manuscript (2005).
 
-Erceg, C, L. Guerrieri, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Can Long Run Restrictions Identify Technology Shocks?](http://dx.doi.org/10.1162/154247605775012860)" Board of Governors of the Federal Reserve, International Finance discussion paper 792 (2005).
+Erceg, C, L. Guerrieri, et al. "[Can Long Run Restrictions Identify Technology Shocks?](http://dx.doi.org/10.1162/154247605775012860)" Board of Governors of the Federal Reserve, International Finance discussion paper 792 (2005).
 
 Lippi, M., and L. Reichlin. "[VAR Analysis, Non-Fundamental Representation, Blaschke Matrices](http://dx.doi.org/10.1016/0304-4076(93)01570-C)." _Journal of Econometrics_ 63, no. 1 (1994): 307–25.
 
@@ -434,7 +434,7 @@ Pakes, A., and D. Pollard. "[Simulation and the Asymptotics of Optimization Esti
 
 Duffie, D., and K. Singleton. "[Simulated Moments Estimation of Markov Models of Asset Prices](http://www.jstor.org/stable/2951768)." _Econometrica_ 61, no. 4 (1993): 929–52.
 
-\*Smith, A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Estimation of Nonlinear Time Series Models Using Simulated VARs." (PDF)](http://www.econ.yale.edu/smith/2285075.pdf) _Journal of Applied Econometrics_ 8 (1993): s63–84.
+\*Smith, A. ["Estimation of Nonlinear Time Series Models Using Simulated VARs." (PDF)](http://www.econ.yale.edu/smith/2285075.pdf) _Journal of Applied Econometrics_ 8 (1993): s63–84.
 
 
 {{< tdclose >}}
@@ -454,7 +454,7 @@ Andrews, D. W. K., M. Moreira, et al. "[Optimal Two-Sided Invariant Similar Test
 
 Andrews, D. W. K., and J. H. Stock. "Inference with Weak Instruments." In _Advances in Economics and Econometrics, Theory and Applications: Ninth World Congress of the Econometric Society_. Vol. 3. Edited by R. Blundell, W. K. Newey, and T. Person. Cambridge University Press, 2007. ISBN: 9780521692106. \[Preview with [Google Books](http://books.google.com/books?id=pPW40vYwgyoC&pg=PAfrontcover)\]
 
-Kleibergen, F. R., and S. Mavroeidis. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Weak Instrument Robust Tests in GMM and the New Keynesian Phillips Curve." (PDF)](http://dx.doi.org/10.1198/jbes.2009.08280) Manuscript, Brown University (2008).
+Kleibergen, F. R., and S. Mavroeidis. ["Weak Instrument Robust Tests in GMM and the New Keynesian Phillips Curve." (PDF)](http://dx.doi.org/10.1198/jbes.2009.08280) Manuscript, Brown University (2008).
 
 Staiger, D., and J. H. Stock "[Instrumental Variables Regression with Weak Instruments](http://www.jstor.org/stable/2171753)." _Econometrica_ 65, no. 3 (1997): 557–86.
 
