@@ -4,6 +4,7 @@ description: This resource file contains information regarding recitation 2 time
   in matlab.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-384-time-series-analysis-fall-2013/72c7366e766cd0e37eeacdd062f93dcc_MIT14_384F13_rec2matlab.pdf
 file_type: application/pdf
+parent_uid: 430be4a7-f1b2-abe2-a825-adedf5289076
 resourcetype: Document
 title: 'Recitation 2: Time Series in Matlab'
 uid: 72c7366e-766c-d0e3-7eea-cdd062f93dcc
